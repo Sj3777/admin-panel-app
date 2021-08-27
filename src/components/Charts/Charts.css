@@ -1,0 +1,23 @@
+.chartContainer {
+  display: flex;
+}
+.charts {
+  display: flex;
+  flex: 2;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 6px 0px 3px rgba(201, 198, 198, 0.32);
+  -webkit-box-shadow: 5px 6px 0px 3px rgba(201, 198, 198, 0.32);
+  -moz-box-shadow: 5px 6px 0px 3px rgba(201, 198, 198, 0.32);
+}
+.charts2 {
+  display: flex;
+  flex: 1;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 6px 0px 3px rgba(201, 198, 198, 0.32);
+  -webkit-box-shadow: 5px 6px 0px 3px rgba(201, 198, 198, 0.32);
+  -moz-box-shadow: 5px 6px 0px 3px rgba(201, 198, 198, 0.32);
+}
